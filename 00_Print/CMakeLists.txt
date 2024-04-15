@@ -1,4 +1,3 @@
-#=========================
 set (name "YooGle")
 
 message(STATUS "${name}")
@@ -22,6 +21,3 @@ endfunction()
 
 f()
 message(STATUS "${email}")
-
-
-#=========================
